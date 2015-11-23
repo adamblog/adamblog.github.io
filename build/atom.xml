@@ -4,7 +4,7 @@
  <title>Aboot Town</title>
  <link href="http://aboottown.com/atom.xml" rel="self"/>
  <link href="http://aboottown.com/"/>
- <updated>2015-11-23T00:16:41-07:00</updated>
+ <updated>2015-11-23T00:21:14-07:00</updated>
  <id>http://aboottown.com</id>
  <author>
    <name>Adam Wooster</name>
@@ -17,13 +17,11 @@
    <link href="http://aboottown.com/2015/11/23/Introducing-aboottown/"/>
    <updated>2015-11-23T00:00:00-07:00</updated>
    <id>http://aboottown.com/2015/11/23/Introducing-aboottown</id>
-   <content type="html">&lt;h1 id='aboot_town'&gt;Aboot Town&lt;/h1&gt;
+   <content type="html">&lt;h1 id='introduction'&gt;Introduction&lt;/h1&gt;
 
-&lt;p&gt;Adam Wooster&lt;/p&gt;
+&lt;p&gt;This blog is for personal use only. Please stop reading immediatly. Its purpose is to record the goings on of a young, single man in Boulder, Colorado.&lt;/p&gt;
 
-&lt;h1 id='introduction'&gt;Introduction&lt;/h1&gt;
-
-&lt;p&gt;This blog is for personal use only. Please stop reading immediatly. Its purpose is to record the goings on of a young, single man in Boulder, Colorado.&lt;/p&gt;</content>
+&lt;p&gt;I created this blog by using this helpful young man&amp;#8217;s &lt;a href='http://joshualande.com/jekyll-github-pages-poole/'&gt;link&lt;/a&gt;.&lt;/p&gt;</content>
  </entry>
  
 
