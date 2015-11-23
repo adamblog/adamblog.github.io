@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Aboot Town
+tagline:             One Man's Journey in the Desert
+url:                 http://aboottown.com
 paginate:            1
 baseurl:             ""
 
@@ -20,11 +20,18 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Adam Wooster
+  url:               https://aboottown.com
+  email:             adamblog@gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/adamblog/adamblog.github.io
+
+
+
+pages_list:
+    About: '/about'
+    Archive: '/archive'
+    Feed: '/atom.xml'
