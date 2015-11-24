@@ -65,7 +65,7 @@ Fucking patriarchy.
 [^7]: A rare display of tastefullness from a porn festival.[^9]
 [^8]: Interestingly, the reversal of this film technique was used to similarly stunning fashion with the Girl in The Red Coat in Schindler's List.
 [^9]: Make no mistake, at this point all notions of a Tasteful Burlesque Show of innuendo and sex-positivity were gone. I was watching pornography. With friends. In a bar. And the sound production was terrible.
-[^10] I am pro-GMO, and as such, reject the conflation of Naturalness and Beauty. If Michael Jordan shaves his armpits, so can you!
+[^10]: I am pro-GMO, and as such, reject the conflation of Naturalness and Beauty. If Michael Jordan shaves his armpits, so can you!
 [^11]: Gone were my illusions of consent-positivty[^12] in this festival of pornographers. Frequent readers of my blog will suspect that it is here I began to be triggered.
 [^12]: Although, it does raise interesting questions of consent. How would I have felt if the genders were reversed? (even ickier) If it happened over the course of a week and she just manipulated (was charming) him into having sex with her would I feel icky then? (no).  
 [^13]: Like an Arby's commerical.
