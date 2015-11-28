@@ -10,7 +10,7 @@ if the date is oneself. This is how I decided on Bike Smut! A Film Festival dedi
 exploring the intersection of mobility and sexuality[^4]. This would then be followed by
 One Dollar Tacos at Mountain Sun. A one-two combination sure to dazzle anyone! Tacos, then tacos[^5]. 
 
-Plus, as an avowed Star Trek, Star Wars and all around science fiction fan, the added cheery on top was that this year the theme was Science Friction. All this was to turn to ash in my mouth. The eating-tacos at the Mountain Sun were nice though.
+Plus, as an avowed Star Trek, Star Wars and all around science fiction fan, the added cherry on top was that this year the theme was Science Friction. All this was to turn to ash in my mouth. The eating-tacos at the Mountain Sun were nice though.
 
 ###The Festival.
 
