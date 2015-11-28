@@ -19,7 +19,7 @@ First, a disclaimer. Please read the below as one man trying to put you in his, 
 1. Mexican Lesbians. They kiss, one goes riding, one starts masturbating. Commentary on the 
 solo, fetishized 'movement-for-movement's-sake' philosophy of recreational cycling? Perhaps.
 
-2. Charlie Chaplin. Begins in black and white. Homeless man gifts sex toy to woman. She uses it (offscreen[^7]), and the world becomes fully of vibrant colours.[^8]
+2. Charlie Chaplin. Begins in black and white. Homeless man gifts sex toy to woman. She uses it (offscreen[^7]), and the world becomes full of vibrant colours.[^8]
 
 3. Hispanic woman masturbates while straddling bicycle in a park. Most 'arty' of the films. I enjoyed this for its tasteful restraint. By using metaphorical imagery (notably, an engorged red balloon inflating), and accompanied by a dulcimer that discordantly hammered away, the audience was induced into an anxious, uncomfortable, but aroused state. Presumably the same state that would lead a Mexican to masturbate on a bike in a park. 
 
