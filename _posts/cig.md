@@ -1,0 +1,19 @@
+---
+layout: post
+title: The Unexpected Social Utility of Cigarettes
+---
+
+I was watching a film recently[^1] and had an epiphany. There was a scene when the young protagonist, frustrated with his bandmates, leaves the studio and smokes a cigarette outside. He is quickly joined by Maggie Gyllenhal. However, there is a good 5-10 seconds of him just smoking a cigarette. I'm convinced the scene wouldn't have worked without the cig. It would have been weird, he would have just been staring out into the middle distance, slightly peevishly.
+
+My insight is thus: had such wonderful social and personal utility, apart from their addictive qualities. See a cute girl and want to chat her up without being weird? Ask for a light! Share a cig! Of course, this doesn't work anymore because rational people don't smoke-- it is literally killing you. Eric.
+
+Not only that, what could be more intimate than sharing a cig with someone after sex? There is something universal about that, a cognitive, rather than sensual, intimacy between two people sharing a cig in bed. 
+
+Want to step outside and just have a think? You'd look weird leaning against a wall, staring out like a space cadet. Why not smoke! People understand, they just see an addict getting zir's fix, rather than a pervert just staring. This is especially necessary if you work next to a playground.
+
+
+I can think of a dozen more uses for cig's. Maybe that is why they are still around, and still being depicted in the media.
+In fact, most depictions of cig's in media serve a purpose. Next time you watch a film or TV show, you'll notice that most every cig serves a purpose. Even in the always subtle Mad Men, where everyone smokes, there are at least billion scenes where a smoking Doctor is examining a smoking pregnant woman-- showing how shitty people were back then, I guess. More to the point, they are usually used more subtly to show weakness, addiction, stress. They can encourage intimacy or distance between two people, and they can evoke
+disgust.
+
+But seriously, you should quit smoking, Eric.
