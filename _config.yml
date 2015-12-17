@@ -10,6 +10,7 @@ tagline:             One Man's Journey in the Desert
 url:                 http://aboottown.com
 paginate:            1
 baseurl:             ""
+markdown:            kramdown
 
 # Assets
 #
